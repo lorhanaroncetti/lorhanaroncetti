@@ -14,9 +14,10 @@
   <img align="center" alt="Lorhana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lorhana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lorhana-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Lorhana-Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
   <img align="right" alt="Lorhana-gif" height="150" width="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/69554007/200893712-5465d490-6b27-4c7d-9e93-d68cfc33f17a.gif">
-  </div>
-
+  </div>  
+  
   ##
 
   <div>
